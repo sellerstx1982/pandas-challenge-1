@@ -20,3 +20,5 @@ My coding project uses Pandas to explore, transform , summarize, and analyze who
 6) Creating DataFrames
    * `read_csv('csv_file')`: create dataframe from `csv_file`
    * `df[['col1', 'col2', 'col3']]`: create new dataframe with 3 columns from existing frame.
+
+To begin, open the wholesale_data_analysis_starter_code.ipynb file in a source code editor that supports Jupyter Notebook. Each cell has code that displays an output below the individual cell. Use the play button outside the top left corner of each cell to run each cell. You can also click inside the cell and press Shift + Enter to run the cell and move down to the next cell. The output of each cell displays what the comment requests and uses the Pandas Library of the Python coding language. 
