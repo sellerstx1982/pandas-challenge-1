@@ -8,11 +8,8 @@ My coding project uses Pandas to explore, transform , summarize, and analyze who
    * `value_counts`: counts occurances of each unique value
    * `head(n)`: only display first `n` rows
    * 'nlargest(number, column)': retrieve top number values in column
-   * 'concat': combines DataFrames or Series objects along the x or y axis
-   * 'reset_index':
 4) Manipulate data by inserting, deleting, updating
    * `df['new_col'] = df['col1'] * df['col2']: create new column from existing columns.
-   * `drop`: remove rows/columns
    * 'sort_values': return a new dataframe with sorted data  
 5) Summarize and present data in human readable
    * `df['col'].apply(formatter)`: pass name of function or lambda to format `col`
