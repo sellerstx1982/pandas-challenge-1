@@ -4,7 +4,7 @@ My coding project uses Pandas to explore, transform , summarize, and analyze who
 ## Throughout this experience we learned how to:
 1) Use describe and columns functions
 2) Filter queries in simpler and more specific ways
-   * `loc` and `iloc`: filter data by condition/index
+   * `loc`: filter data by condition
    * `value_counts`: counts occurances of each unique value
    * `head(n)`: only display first `n` rows
    * 'nlargest(number, column)': retrieve top number values in column
